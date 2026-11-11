@@ -1,2 +1,5 @@
-# github-filesystem-pdf-tools-143-esd-at-scale-0b4174
-Code repository: Speculative decoding serving stack for large language models.
+# esd-at-scale
+
+Speculative decoding serving stack for large language models.
+
+Serving benchmarks and draft-model schedules for the EMNLP 2025 paper.
